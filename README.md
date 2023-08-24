@@ -35,7 +35,7 @@ npm install
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/yourusername/climate-change-news-api.git
+git clone https://github.com/Mohammad-Shoeb-Faizan/ClimateChangeAPI.git
 ```
 
 2. Navigate to the project directory:
@@ -65,7 +65,7 @@ The API server will be accessible at `http://localhost:8000` by default. You can
 The base URL for the Climate Change News API is:
 
 ```
-https://your-api-domain.com
+https://climatechangeapi-ateh.onrender.com
 ```
 
 ### Endpoints
@@ -88,7 +88,7 @@ Contributions are welcome! If you would like to contribute to the Climate Change
 
 ## MIT Licence
 
-Copyright (c) 2020 Ania Kubow
+Copyright (c) 2023 Mohammad Shoeb Faizan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

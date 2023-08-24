@@ -1,7 +1,7 @@
 {
   "name": "climatechangeapi",
   "version": "1.0.0",
-  "description": "",
+  "description": "The Climate Change News API is a RESTful web service that provides access to a curated collection of news articles related to climate change from reputable newspapers and sources. This API offers a straightforward way to programmatically access up-to-date information on climate change issues. Users can retrieve a consolidated list of climate change articles from multiple sources or select articles from a specific newspaper, making it a valuable resource for developers, researchers, and applications interested in climate change news. With no authentication required, it offers easy access to valuable climate-related content.",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
