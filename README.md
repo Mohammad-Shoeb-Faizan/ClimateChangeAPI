@@ -11,7 +11,7 @@ The Climate Change News API is a RESTful web service that provides access to a c
   - [Base URL](#base-url)
   - [Endpoints](#endpoints)
 - [Contributing](#contributing)
-- [License](#MIT Licence)
+- [License](#MIT)
 
 ## Getting Started
 
